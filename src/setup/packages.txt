@@ -1,0 +1,15 @@
+# Required Packages
+
+## Frontend
+react@19.2.0
+react-dom@19.2.0
+typescript@5.8.3
+vite@8.0.16
+tailwindcss@4.2.1
+@tanstack/react-router@1.168.25
+lucide-react@0.575.0
+recharts@2.15.4
+
+## Dev Tools
+eslint@9.32.0
+prettier@3.7.3
